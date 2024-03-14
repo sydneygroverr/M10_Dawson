@@ -14,7 +14,6 @@ function BowlerList() {
     };
     fetchBowlingData();
   }, []);
-  
 
   useEffect(() => {
     const fetchTeamData = async () => {
