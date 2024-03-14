@@ -1,0 +1,6 @@
+@Mission10_Dawson_backend_HostAddress = http://localhost:5023
+
+GET {{Mission10_Dawson_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
